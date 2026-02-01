@@ -1,9 +1,9 @@
-👨‍💻 Working On : Mobile app development at FAST University.<br><br>
-🤝 Collaborating On : Mobile, Java, cross-platform, and open-source projects.<br><br>
-🆘 Need Help With : Advanced app architecture and scalable, efficient code.<br><br>
-🌱 Learning : Mobile apps, Java, C++, and Python.<br><br>
-💬 Ask Me About : Software engineering and programming basics.<br><br>
-⚡ Fun Fact : I explore trading to boost my analytical skills.<br><br>
+👨‍💻 Working On : Mobile App Development At FAST University<br><br>
+🤝 Collaborating On : Mobile, Java, Cross-Platform, And Open-Source Projects<br><br>
+🆘 Need Help With : Advanced App Architecture And Scalable, Efficient Code<br><br>
+🌱 Learning : Mobile Apps, Java, C++, And Python<br><br>
+💬 Ask Me About : Software Engineering And programming Basics<br><br>
+⚡ Fun Fact : I Explore Trading To Boost My Analytical Skills<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miananns567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-anas-b14b243a9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@miananns567) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/miananns567) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miananns567@gmail.com) 
 # 💻 Tech Stack:
