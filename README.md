@@ -1,5 +1,29 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on<br><br>Mobile application development as part of my Software Engineering studies at FAST University<br><br>Building practical projects using modern mobile app development practices<br><br>🤝 I’m looking to collaborate on<br><br>Mobile application projects<br><br>Java-based or cross-platform development projects<br><br>Open-source projects related to software engineering fundamentals<br><br>🆘 I’m looking for help with<br><br>Advanced mobile application architectures<br><br>Improving code quality, scalability, and performance<br><br>🌱 I’m currently learning<br><br>Mobile Application Development<br><br>Java for application development<br><br>C++ and Python for problem-solving and system-level understanding<br><br>💬 Ask me about<br><br>Software Engineering concepts<br><br>Mobile application development<br><br>Java, C++, and Python basics<br><br>⚡ Fun fact<br><br>Besides programming, I actively explore trading and financial markets to enhance my analytical skills
+👨‍💻 I’m currently working on<br><br>
+Mobile app development for my Software Engineering studies at FAST University<br><br>
+Building practical projects using modern mobile app practices<br><br>
+
+🤝 I’m looking to collaborate on<br><br>
+Mobile application projects<br><br>
+Java or cross-platform development projects<br><br>
+Open-source projects in software engineering fundamentals<br><br>
+
+🆘 I’m looking for help with<br><br>
+Advanced mobile app architectures<br><br>
+Improving code quality, scalability, and performance<br><br>
+
+🌱 I’m currently learning<br><br>
+Mobile application development<br><br>
+Java for apps<br><br>
+C++ and Python for problem-solving and systems<br><br>
+
+💬 Ask me about<br><br>
+Software engineering concepts<br><br>
+Mobile app development<br><br>
+Java, C++, and Python basics<br><br>
+
+⚡ Fun fact<br><br>
+I explore trading and financial markets to boost my analytical skills
 
 
 ## 🌐 Socials:
