@@ -1,18 +1,13 @@
 👨‍💻 Working on:<br><br>
 Mobile app development at FAST University.<br><br>
-
 🤝 Collaborating on:<br><br>
 Mobile, Java, cross-platform, and open-source projects.<br><br>
-
 🆘 Need help with:<br><br>
 Advanced app architecture and scalable, efficient code.<br><br>
-
 🌱 Learning:<br><br>
 Mobile apps, Java, C++, and Python.<br><br>
-
 💬 Ask me about:<br><br>
 Software engineering and programming basics.<br><br>
-
 ⚡ Fun fact:<br><br>
 I explore trading to boost my analytical skills.
 
